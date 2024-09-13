@@ -9,7 +9,6 @@ A static UI clone of the [GeeksForGeeks](https://www.geeksforgeeks.org/) website
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project aims to recreate the UI of the GeeksForGeeks homepage. It focuses solely on the frontend, without any backend or database integration. This clone includes various sections like the navigation bar, featured articles, and a footer, mimicking the original design.
